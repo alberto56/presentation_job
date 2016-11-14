@@ -1,5 +1,3 @@
-Presentation on Legacy Code built with Reveal.js.
+Presentation I did on Nov. 14th, 2016 about my job as a freelance web developer for my daughter's 6th grade class.
 
-The presentation is [hosted on GitHub Pages](https://alberto56.github.io/presentation_legacy_code/#/).
-
-Can be found on [GitHub Pages](https://alberto56.github.io/presentation_legacy_code).
+The presentation is [hosted on GitHub Pages](https://alberto56.github.io/presentation_job/#/).
