@@ -3,7 +3,7 @@ backend:
   repo: alberto56/presentation_job
   branch: gh-pages
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/6946e3e17c6e2b059bec668d
+  auth_endpoint: /auth/github/repo/694f514918f56cc35826650b
 media_folder: static/uploads
 public_folder: /uploads
 collections:
